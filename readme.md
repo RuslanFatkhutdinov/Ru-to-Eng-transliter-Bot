@@ -23,6 +23,6 @@
 5. Запустить бота.
 
 ## Контакты
-Автор: Фатхутдинов Руслан
-email: workrf@gmail.com
-tg: @ruslan_fd
+- Автор: Фатхутдинов Руслан
+- email: workrf@gmail.com
+- tg: [@ruslan_fd](t.me/ruslan_fd)
